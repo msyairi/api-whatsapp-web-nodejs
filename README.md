@@ -36,11 +36,14 @@ npm i axios
    ```sh
    http://localhost:8000/send-message/
    ```
+   <img src="waweb-api-sendmessage.PNG"/>
 
    ```sh
    http://localhost:8000/send-media-static/
    ```
+   <img src="waweb-api-sendmediafile.PNG"/>
 
    ```sh
    http://localhost:8000/send-media-url/
    ```
+   <img src="waweb-api-sendmediaurl.PNG"/>
